@@ -34,6 +34,6 @@ cacheSolve <- function(x, ...) {
         returnme <- inv
         }
         
-        returnme                                       ## Return the inverse 'x'
+        returnme                                       ## Return the inverse
 }
 
